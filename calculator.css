@@ -1,0 +1,50 @@
+body{
+    background-color: skyblue;
+}
+
+.main{
+    width: 375px;
+    height: 450px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 5%;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: white;
+}
+
+.btn{
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    color:floralwhite;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(69, 105, 105);
+}
+.btnc{
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+.screen{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 280px;
+    height: 80px;
+    margin-right: 5px;
+    margin-top: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: palevioletred;
+    float: right;
+    color:floralwhite;
+    font-weight: bold;
+    font-size: 28px;
+}
+.operator{
+    background-color: mediumslateblue;
+}
